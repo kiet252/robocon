@@ -1,0 +1,13 @@
+sensor - board
+-Color
+VCC - 3.3V
+GND - GND
+SCL - SCL
+SDA - SDA
+S1 jump G
+
+-Ultrasonic
+VCC - 5V
+Trig - Digital input 8 (any)
+Echo - Digital input 7 (any)
+GND - GND
